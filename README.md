@@ -18,11 +18,15 @@ Do outro lado do balcão, o painel é feito para ser usado de pé, no celular, e
 
 Sem pagamento online, sem mensalidade de app, sem intermediário: o site é da barbearia.
 
-<p align="center">
-  <img src="telas/agendar.png" alt="Escolha do horário" width="220">
-  <img src="telas/painel.png" alt="Painel: visão geral" width="220">
-  <img src="telas/semana.png" alt="Painel: semana" width="220">
-</p>
+**O cliente escolhe o barbeiro, o serviço e o horário**
+
+![Agendamento](telas/agendar.png)
+
+**A barbearia acompanha tudo pelo painel**
+
+![Painel: visão geral](telas/painel.png)
+
+![Painel: agenda da semana](telas/semana.png)
 
 ## Quer um desses para a sua barbearia?
 
