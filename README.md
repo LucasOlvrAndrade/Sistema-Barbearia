@@ -6,7 +6,7 @@ Um site próprio para a barbearia, onde o cliente marca horário sozinho — com
 
 É uma demonstração com dados fictícios. Cadastre-se como cliente e marque um horário. Para ver o lado da barbearia, entre no painel com `dono` / `demo-dono-2026`.
 
-![Landing](telas/landing.png)
+<p align="center"><img src="telas/landing.png" alt="Landing" width="720"></p>
 
 ## A ideia
 
@@ -18,15 +18,12 @@ Do outro lado do balcão, o painel é feito para ser usado de pé, no celular, e
 
 Sem pagamento online, sem mensalidade de app, sem intermediário: o site é da barbearia.
 
-**O cliente escolhe o barbeiro, o serviço e o horário**
+<p align="center"><img src="telas/agendar.png" alt="O cliente escolhe o barbeiro, o serviço e o horário" width="720"></p>
 
-![Agendamento](telas/agendar.png)
-
-**A barbearia acompanha tudo pelo painel**
-
-![Painel: visão geral](telas/painel.png)
-
-![Painel: agenda da semana](telas/semana.png)
+<p align="center">
+  <img src="telas/painel.png" alt="Painel: visão geral" width="49%">
+  <img src="telas/semana.png" alt="Painel: agenda da semana" width="49%">
+</p>
 
 ## Quer um desses para a sua barbearia?
 
