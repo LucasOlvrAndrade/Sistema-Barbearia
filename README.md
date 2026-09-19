@@ -16,7 +16,7 @@ Este sistema parte daí. Cada barbeiro tem a sua agenda, a sua página e o seu l
 
 Do outro lado do balcão, o painel é feito para ser usado de pé, no celular, entre um corte e outro: quem chega em seguida, quanto entrou hoje, quanto cada barbeiro tem a receber, quem não aparece há tempo. Folga, feriado e bloqueio de agenda em dois toques. No fim do mês, o faturamento sai em planilha para o contador.
 
-Sem pagamento online, sem mensalidade de app, sem intermediário: o site é da barbearia.
+Sem pagamento online e sem marketplace mostrando o concorrente ao lado: o site é da barbearia.
 
 <p align="center"><img src="telas/agendar.png" alt="O cliente escolhe o barbeiro, o serviço e o horário" width="720"></p>
 
